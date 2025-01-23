@@ -1,0 +1,17 @@
+bstyle1 {
+    background-color: white;
+    border: 3px solid black;
+    color: black;
+    padding: none;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    box-shadow: 0 9px #999;
+}
+
+bstyle1:active{
+    box-shadow: 0 5px #666;
+    transform: translateY(4px)
+}
